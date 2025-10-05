@@ -1,22 +1,23 @@
-<h1 align="center">Hey there! I'm Mehdi 👋</h1>
+<h1 align="center">Hey, I'm Mehdi 👾</h1>
 
 <p align="center">
-🎮 Game Developer • 💻 Software Engineer • 🔬 Hardware Prototyping Enthusiast  
-📍 Mashhad/Neyshabur, Iran | 🚀 Exploring local tech & game dev opportunities  
+🎮 Game Developer | 💻 Software Engineer | 🔬 Hardware Prototyper  
+📍 Mashhad/Neyshabur, Iran | 🚀 Building scalable systems & exploring local tech/game dev opportunities  
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Building+cool+stuff+with+Unity+%26+React;Lover+of+modular+hardware+design;Documenting+everything+like+a+pro" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Crafting+Gameplay+Architectures+in+Unity;Designing+Modular+Hardware+Systems;Documenting+Everything+Like+a+Pro" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🎮 Passionate about building games with **Unity** and **C#**
+- 🎮 Unity game developer with a focus on **custom animation systems**, **state machines**, and **editor tools**
+- 🧩 Builder of scalable gameplay architectures for mobile & PC
 - 🌐 Skilled in **React**, **Laravel**, **JavaScript**, and modern web design
-- 🔧 Experienced in **hardware prototyping**, **sensor integration**, and modular systems
-- 📚 Obsessed with clean documentation and collaborative learning
+- 🔧 Experienced in **hardware prototyping**, **sensor integration**, and modular system design
+- 📚 Passionate about clean documentation, mentoring, and collaborative learning
 
 ---
 
@@ -33,11 +34,13 @@
 ## 🛠 Tech Stack & Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Unity-Expert-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-Intermediate-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Laravel-Advanced-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/C++-Proficient-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hardware-Prototyping-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Unity-Advanced%20Gameplay%20Systems-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C%23-Custom%20Animation%20Controllers-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/State%20Machines-Dynamic%20Character%20Logic-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Editor%20Tools-Custom%20Inspector%20%26%20Workflow-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-Frontend%20Design-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Laravel-Backend%20APIs-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C++-Hardware%20Integration-yellow?style=for-the-badge" />
 </p>
 
 ---
@@ -54,9 +57,9 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://t.me/mehdi_dev"><img src="https://img.shields.io/badge/Telegram-@mehdi_dev-blue?style=for-the-badge&logo=telegram" /></a>
+  <a href="https://t.me/BK_1ir"><img src="https://img.shields.io/badge/Telegram-@BK_1ir-blue?style=for-the-badge&logo=telegram" /></a>
   <a href="mailto:mahdiklidari190@gmail.com"><img src="https://img.shields.io/badge/Email-mahdiklidari190@gmail.com-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://linkedin.com/in/mahdiklidari190"><img src="https://img.shields.io/badge/LinkedIn-Mehdi-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/bardia-klidari-64a32a30b"><img src="https://img.shields.io/badge/LinkedIn-Bardia%20Klidari-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 ---
