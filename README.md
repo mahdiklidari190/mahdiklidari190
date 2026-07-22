@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Mehdi 👾</h1>
+<h1 align="center">Hey, I'm Bardia 👾</h1>
 
 <p align="center">
 🎮 Game Developer | 💻 Software Engineer | 🔬 Hardware Prototyper  
